@@ -1,0 +1,14 @@
+C:\Users\zero3\source\repos\Рогалик\Рогалик\bin\Debug\net6.0\Рогалик.exe
+C:\Users\zero3\source\repos\Рогалик\Рогалик\bin\Debug\net6.0\Рогалик.deps.json
+C:\Users\zero3\source\repos\Рогалик\Рогалик\bin\Debug\net6.0\Рогалик.runtimeconfig.json
+C:\Users\zero3\source\repos\Рогалик\Рогалик\bin\Debug\net6.0\Рогалик.dll
+C:\Users\zero3\source\repos\Рогалик\Рогалик\bin\Debug\net6.0\Рогалик.pdb
+C:\Users\zero3\source\repos\Рогалик\Рогалик\obj\Debug\net6.0\Рогалик.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zero3\source\repos\Рогалик\Рогалик\obj\Debug\net6.0\Рогалик.AssemblyInfoInputs.cache
+C:\Users\zero3\source\repos\Рогалик\Рогалик\obj\Debug\net6.0\Рогалик.AssemblyInfo.cs
+C:\Users\zero3\source\repos\Рогалик\Рогалик\obj\Debug\net6.0\Рогалик.csproj.CoreCompileInputs.cache
+C:\Users\zero3\source\repos\Рогалик\Рогалик\obj\Debug\net6.0\Рогалик.dll
+C:\Users\zero3\source\repos\Рогалик\Рогалик\obj\Debug\net6.0\refint\Рогалик.dll
+C:\Users\zero3\source\repos\Рогалик\Рогалик\obj\Debug\net6.0\Рогалик.pdb
+C:\Users\zero3\source\repos\Рогалик\Рогалик\obj\Debug\net6.0\Рогалик.genruntimeconfig.cache
+C:\Users\zero3\source\repos\Рогалик\Рогалик\obj\Debug\net6.0\ref\Рогалик.dll
